@@ -1,17 +1,91 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
     },
-    "employees":[
-        
-    ]
-    
-  }
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "c519",
+      "firstName": "sdsdas",
+      "lastName": "sdasdas",
+      "email": "sđa@gmail.com",
+      "dob": "2024-05-14T17:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "ewewew",
+      "experience": 111,
+      "package": 222
+    },
+    {
+      "id": "fb06",
+      "firstName": "fdfdfd",
+      "lastName": "fdfdfdfdf",
+      "email": "sfsdfsfsfs",
+      "dob": "2024-05-01T17:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "ấ",
+      "experience": 33,
+      "package": 3
+    },
+    {
+      "id": "726d",
+      "firstName": "sâ",
+      "lastName": "dsds",
+      "email": "đâs",
+      "dob": "2024-05-08T17:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "dsdsdsdsds",
+      "experience": 2,
+      "package": 33
+    },
+    {
+      "id": "6e80",
+      "firstName": "sấ",
+      "lastName": "âsasas",
+      "email": "âsa",
+      "dob": "2024-04-30T17:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "sấ",
+      "experience": 1222,
+      "package": 1111
+    },
+    {
+      "id": "ab57",
+      "firstName": "sấ",
+      "lastName": "sasấ",
+      "email": "sấ",
+      "dob": "2024-04-30T17:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "dsfdfd",
+      "experience": 11,
+      "package": 222
+    }
+  ]
+}
